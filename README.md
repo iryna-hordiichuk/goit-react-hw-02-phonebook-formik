@@ -1,1 +1,1 @@
-Telephone book application which allowss to add, delete and filter contacts. It uses Formik library to create Form component (uncontrolled form under the hood).
+Phonebook application which allows to add, delete and filter contacts. It uses Formik library to create Form component (controlled form under the hood).
